@@ -1,7 +1,6 @@
-yfinance
 textblob
 pandas
 requests
 python-dotenv
-alpha-vintage
 plotly
+streamlit
