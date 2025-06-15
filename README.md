@@ -2,8 +2,6 @@
 
 A **real-time stock analysis** web application built with Python and Streamlit, offering automated insights using **market data, sentiment analysis**, and **technical indicators**.
 
-![StockVision Demo](https://your-screenshot-or-demo-link.png)
-
 ---
 
 ## 🚀 Features
